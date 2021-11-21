@@ -1,13 +1,31 @@
+a { 
+    color: gray; 
+}
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #009e9e;
+    background-color: ghostwhite;
+}
+
+footer {
+    color: gray;
 }
 
 h1 {
-    text-decoration: underline;
     text-align: center;
-    color: midnightblue;
+    color: gray;
 }
+
+h2 {
+    text-align: center;
+    color: gray;
+}
+
+
+li {
+    list-style-type: circle;
+}
+
 
 p {
     line-height: 150%;
@@ -16,8 +34,4 @@ p {
 
 section {
     background-color: ghostwhite;
-}
-
-li {
-    list-style-type: circle;
 }
